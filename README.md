@@ -56,7 +56,7 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Project developed for a company in order to check Bitcoin prices and make conversions, and keep records of the percentage of price changes.</p>
+<p>Project developed for a company in order to check Bitcoin prices and make conversions, and keep records of the percentage of changes in Bitcoin prices over time.</p>
 </div>
                                                                                       
 </td>                                                    
