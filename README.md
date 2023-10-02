@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hello I'm Isidro Perla 👋</h1>
 </div>
-<img src="https://i.imgur.com/T08gcNF.png">
+<img src="https://i.imgur.com/C3rk8eb.png">
 
 ## About me
 
