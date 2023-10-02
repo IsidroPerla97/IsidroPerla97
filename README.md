@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<p>Casual endless runner type video game developed in Unity and published in the Play Store.</p>
 </div>
                                                                                       
 </td>
@@ -39,7 +39,7 @@
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>Project of my social hours for the University of El Salvador, in order to be used by the physics section of the university to teach the topic of electromagnetic fields and equipotential lines. This project was developed in the C++ language, and Qt was used for the forms and OpenGL for the graphics.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
@@ -56,7 +56,7 @@
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+<p>Project developed for a company in order to check Bitcoin prices and make conversions, and keep records of the percentage of price changes.</p>
 </div>
                                                                                       
 </td>                                                    
