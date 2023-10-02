@@ -8,7 +8,7 @@
 - ⭐ Unirversity of El Salvador (Universidad de El Salvador) ⭐ 
 - 📲 Mobile developer
 - 🎮 Mobile video games developer and publisher
-- 💻 PHP Backend developer
+- 💻 PHP backend developer
 <br>
 
 ## Highlightests Projects
