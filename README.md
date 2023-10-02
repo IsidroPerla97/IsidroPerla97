@@ -35,7 +35,7 @@
                <br>
 <h3 align="center">Bitcoin Price Tracker (Android Studio app)</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/uyWgp98.png" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/Rnpm9ki.png" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
@@ -56,7 +56,7 @@
 <td width="100%">
 <h3 align="center">Equipotential Lines Physics Simulation (Qt, OpenGL, C++ Project)</h3>
 <div align="center">
-<a href=""https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/Rnpm9ki.png" width="400" alt="Curso intermedio Android"></a>
+<a href=""https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/uyWgp98.png" width="400" alt="Curso intermedio Android"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
