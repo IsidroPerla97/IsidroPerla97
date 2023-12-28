@@ -19,7 +19,7 @@
 <div align="center">
 <a href=""https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/eIaVUsO.jpg" width="400" alt="Curso básico android"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<a href="https://play.google.com/store/apps/details?id=com.FullPowerGames.SaveADuck&pli=1" target="_blank">
 <img src="https://i.imgur.com/Pwv9qW1.png">
 </a>
 </p>
