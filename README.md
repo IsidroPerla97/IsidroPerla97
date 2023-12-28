@@ -27,8 +27,9 @@
 </div>                                                                               
 </td>
 
+<table>
+<tr>
 <td width="50%">
-               <br>
 <h3 align="center">Equipotential Lines Physics Simulation (Qt, OpenGL, C++ Project)</h3>
 <div align="center">                                       
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/Rnpm9ki.png" width="400" alt="Curso arquitectura MVVM"></a>
