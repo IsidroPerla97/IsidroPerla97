@@ -53,7 +53,7 @@
 <a href="https://github.com/IsidroPerla97/Qt-Opengl-Projects/tree/master/Curvas%20Equipotenciales" target="_blank"><img src="https://i.imgur.com/Rnpm9ki.png" width="400" alt="Curso intermedio Android"></a>
 <p>
 <a href="https://github.com/IsidroPerla97/Qt-Opengl-Projects/tree/master/Curvas%20Equipotenciales">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://i.imgur.com/hA0TUco.png">
 </a>
 </p>
 <p>Project of my social hours for the University of El Salvador, in order to be used by the physics section of the university to teach the topic of electromagnetic fields and equipotential lines. This project was developed in the C++ language, and Qt was used for the forms and OpenGL for the graphics.</p>
@@ -67,7 +67,7 @@
 <a href="https://github.com/IsidroPerla97/Qt-Opengl-Projects/tree/master/Sistema%20masa%20resorte/SimulacionSistemaMasaResorte" target="_blank"><img src="https://i.imgur.com/TsxjYkM.png" width="400" alt="Curso Kotlin Multiplatform"></a>
 <p>
 <a href="https://github.com/IsidroPerla97/Qt-Opengl-Projects/tree/master/Sistema%20masa%20resorte/SimulacionSistemaMasaResorte" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://i.imgur.com/hA0TUco.png">
 </a>
 </p>
 <p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
@@ -86,7 +86,7 @@
 <a href=""https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/uyWgp98.png" width="400" alt="Curso intermedio Android"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<img src="https://i.imgur.com/hA0TUco.png">
 </a>
 </p>
 <p>Project developed for a company in order to check Bitcoin prices and make conversions, and keep records of the percentage of changes in Bitcoin prices over time.</p>
