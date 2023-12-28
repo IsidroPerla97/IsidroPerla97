@@ -24,14 +24,12 @@
 </a>
 </p>
 <p>Casual endless runner type video game developed in Unity and published in the Play Store.</p>
-</div>                                                                               
-</td>
-
+</div>
+                                                                                      
 </td>
 
 <td width="50%">
                <br>
-<td width="50%">
 <h3 align="center">Equipotential Lines Physics Simulation (Qt, OpenGL, C++ Project)</h3>
 <div align="center">                                       
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/Rnpm9ki.png" width="400" alt="Curso arquitectura MVVM"></a>
