@@ -32,10 +32,10 @@
                <br>
 <h3 align="center">Electro Marbles (Unity Mobile Game)</h3>
 <div align="center">                                       
-<a href="https://github.com/IsidroPerla97/Qt-Opengl-Projects/tree/master/Curvas%20Equipotenciales" target="_blank"><img src="https://i.imgur.com/hA0TUco.png" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://play.google.com/store/apps/details?id=com.FullPowerGames.ElectroMarbles" target="_blank"><img src="https://i.imgur.com/hA0TUco.png" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
-<a href="https://github.com/IsidroPerla97/Qt-Opengl-Projects/tree/master/Curvas%20Equipotenciales" target="_blank">
+<a href="https://play.google.com/store/apps/details?id=com.FullPowerGames.ElectroMarbles" target="_blank">
 <img src="https://i.imgur.com/Pwv9qW1.png">
 </a>
 </p>
@@ -83,9 +83,9 @@
 <td width="100%">
 <h3 align="center">Bitcoin Price Tracker (Android Studio app)</h3>
 <div align="center">
-<a href=""https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/uyWgp98.png" width="400" alt="Curso intermedio Android"></a>
+<a href="https://github.com/IsidroPerla97/Qt-Opengl-Projects/tree/master/Sistema%20masa%20resorte/SimulacionSistemaMasaResorte"><img src="https://i.imgur.com/uyWgp98.png" width="400" alt="Curso intermedio Android"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
+<a href="https://github.com/IsidroPerla97/Qt-Opengl-Projects/tree/master/Sistema%20masa%20resorte/SimulacionSistemaMasaResorte" target="_blank">
 <img src="https://i.imgur.com/j7aWFIf.png">
 </a>
 </p>
