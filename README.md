@@ -20,7 +20,7 @@
 <a href=""https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/eIaVUsO.jpg" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://imgur.com/7QCaj7Z">
+<img src="https://i.imgur.com/7QCaj7Z.png"">
 </a>
 </p>
 <p>Casual endless runner type video game developed in Unity and published in the Play Store.</p>
