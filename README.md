@@ -27,8 +27,8 @@
 </div>                                                                               
 </td>
 
-<table>
-<tr>
+<td width="50%">
+               <br>
 <td width="50%">
 <h3 align="center">Equipotential Lines Physics Simulation (Qt, OpenGL, C++ Project)</h3>
 <div align="center">                                       
