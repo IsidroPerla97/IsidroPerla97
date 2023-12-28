@@ -20,7 +20,7 @@
 <a href="https://play.google.com/store/apps/details?id=com.FullPowerGames.SaveADuck&pli=1"><img src="https://i.imgur.com/nm4oJy1.png" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://play.google.com/store/apps/details?id=com.FullPowerGames.SaveADuck&pli=1" target="_blank">
-<img src="https://i.imgur.com/j7aWFIf.png">
+<img src="https://i.imgur.com/Pwv9qW1.png">
 </a>
 </p>
 <p>Casual endless runner type video game developed in Unity and published in the Play Store.</p>
@@ -36,7 +36,7 @@
 <br>
 <p>
 <a href="https://github.com/IsidroPerla97/Qt-Opengl-Projects/tree/master/Curvas%20Equipotenciales" target="_blank">
-<img src="https://i.imgur.com/j7aWFIf.png">
+<img src="https://i.imgur.com/Pwv9qW1.png">
 </a>
 </p>
 </p>Project of my social hours for the University of El Salvador, in order to be used by the physics section of the university to teach the topic of electromagnetic fields and equipotential lines. This project was developed in the C++ language, and Qt was used for the forms and OpenGL for the graphics.</p>
