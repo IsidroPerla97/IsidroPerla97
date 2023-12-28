@@ -17,7 +17,7 @@
 <td width="50%">
 <h3 align="center">Save A Duck (Unity Mobile Game)</h3>
 <div align="center">
-<a href=""https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/eIaVUsO.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://play.google.com/store/apps/details?id=com.FullPowerGames.SaveADuck&pli=1"><img src="https://i.imgur.com/eIaVUsO.jpg" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://play.google.com/store/apps/details?id=com.FullPowerGames.SaveADuck&pli=1" target="_blank">
 <img src="https://i.imgur.com/Pwv9qW1.png">
@@ -32,7 +32,7 @@
                <br>
 <h3 align="center">Electro Marbles (Unity Mobile Game)</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/Rnpm9ki.png" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/IsidroPerla97/Qt-Opengl-Projects/tree/master/Curvas%20Equipotenciales" target="_blank"><img src="https://i.imgur.com/Rnpm9ki.png" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
 <a href="https://github.com/IsidroPerla97/Qt-Opengl-Projects/tree/master/Curvas%20Equipotenciales" target="_blank">
@@ -50,7 +50,7 @@
 <td width="50%">
 <h3 align="center">Equipotential Lines Physics Simulation (Qt, OpenGL, C++ Project)</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/Rnpm9ki.png" width="400" alt="Curso intermedio Android"></a>
+<a href="https://github.com/IsidroPerla97/Qt-Opengl-Projects/tree/master/Curvas%20Equipotenciales" target="_blank"><img src="https://i.imgur.com/Rnpm9ki.png" width="400" alt="Curso intermedio Android"></a>
 <p>
 <a href="https://github.com/IsidroPerla97/Qt-Opengl-Projects/tree/master/Curvas%20Equipotenciales">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
