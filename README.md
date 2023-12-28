@@ -52,7 +52,7 @@
 <div align="center">
 <a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/Rnpm9ki.png" width="400" alt="Curso intermedio Android"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
+<a href="https://github.com/IsidroPerla97/Qt-Opengl-Projects/tree/master/Curvas%20Equipotenciales">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 </p>
