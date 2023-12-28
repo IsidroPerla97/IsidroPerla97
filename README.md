@@ -32,7 +32,7 @@
                <br>
 <h3 align="center">Electro Marbles (Unity Mobile Game)</h3>
 <div align="center">                                       
-<a href="https://github.com/IsidroPerla97/Qt-Opengl-Projects/tree/master/Curvas%20Equipotenciales" target="_blank"><img src="https://i.imgur.com/lgGiNhq.png" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/IsidroPerla97/Qt-Opengl-Projects/tree/master/Curvas%20Equipotenciales" target="_blank"><img src="https://i.imgur.com/hA0TUco.png" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
 <a href="https://github.com/IsidroPerla97/Qt-Opengl-Projects/tree/master/Curvas%20Equipotenciales" target="_blank">
