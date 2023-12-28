@@ -39,7 +39,7 @@
 <img src="https://i.imgur.com/Pwv9qW1.png">
 </a>
 </p>
-</p>Project of my social hours for the University of El Salvador, in order to be used by the physics section of the university to teach the topic of electromagnetic fields and equipotential lines. This project was developed in the C++ language, and Qt was used for the forms and OpenGL for the graphics.</p>
+</p>Puzzle game for Android. You aim and shoot an electrically charged sphere and the goal is to hit a ring. But there are other charged spheres and obstacles in your way. The trick is to take use the electrical attractive or repulsive forces acting on the charged sphere. This game actually simulates the effect of Coulomb's law of electrodynamics on the movement of an charged body.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
@@ -70,7 +70,7 @@
 <img src="https://i.imgur.com/j7aWFIf.png">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
+<p>Velocity and acceleration of an oscilating spring-mass system change with a similar but out of sync behaviour. This simulation helps to explain this variation in an easy way by showing how the mass would move, drawing the respective vectors and providing numerical values. You can change the mass, the spring constant and add friction if desired.</p>
 </div>
   
 </td>  
