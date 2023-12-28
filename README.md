@@ -17,7 +17,7 @@
 <td width="50%">
 <h3 align="center">Save A Duck (Unity Mobile Game)</h3>
 <div align="center">
-<a href="https://play.google.com/store/apps/details?id=com.FullPowerGames.SaveADuck&pli=1"><img src="https://i.imgur.com/eIaVUsO.jpg" width="400" alt="Curso básico android"></a>
+<a href="https://play.google.com/store/apps/details?id=com.FullPowerGames.SaveADuck&pli=1"><img src="https://i.imgur.com/TsxjYkM.png" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://play.google.com/store/apps/details?id=com.FullPowerGames.SaveADuck&pli=1" target="_blank">
 <img src="https://i.imgur.com/Pwv9qW1.png">
@@ -48,7 +48,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Equipotential Lines Physics Simulation (Qt, OpenGL, C++ Project)</h3>
+<h3 align="center">Equipotential Lines Physics Simulator (Qt, OpenGL, C++ Project)</h3>
 <div align="center">
 <a href="https://github.com/IsidroPerla97/Qt-Opengl-Projects/tree/master/Curvas%20Equipotenciales" target="_blank"><img src="https://i.imgur.com/Rnpm9ki.png" width="400" alt="Curso intermedio Android"></a>
 <p>
