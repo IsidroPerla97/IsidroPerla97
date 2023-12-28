@@ -5,7 +5,7 @@
 
 ## About me
 
-- ⭐ Unirversity of El Salvador (Universidad de El Salvador) ⭐ 
+- ⭐ Graduted with honors from Unirversity of El Salvador (Universidad de El Salvador) ⭐
 - 📲 Mobile developer
 - 🎮 Mobile video games developer and publisher
 - 💻 PHP backend developer
