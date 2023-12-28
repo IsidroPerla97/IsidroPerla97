@@ -17,7 +17,7 @@
 <td width="50%">
 <h3 align="center">Save A Duck (Unity Mobile Game)</h3>
 <div align="center">
-<a href="https://play.google.com/store/apps/details?id=com.FullPowerGames.SaveADuck&pli=1"><img src="https://i.imgur.com/TsxjYkM.png" width="400" alt="Curso básico android"></a>
+<a href="https://play.google.com/store/apps/details?id=com.FullPowerGames.SaveADuck&pli=1"><img src="https://i.imgur.com/nm4oJy1.png" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://play.google.com/store/apps/details?id=com.FullPowerGames.SaveADuck&pli=1" target="_blank">
 <img src="https://i.imgur.com/Pwv9qW1.png">
