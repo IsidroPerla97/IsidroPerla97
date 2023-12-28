@@ -5,10 +5,10 @@
 
 ## About me
 
-- ⭐ Graduted with honors from Unirversity of El Salvador (Universidad de El Salvador) ⭐
+- ⭐ Graduated with honors from Unirversity of El Salvador (Universidad de El Salvador) ⭐
 - 📲 Mobile developer
 - 🎮 Mobile video games developer and publisher
-- 💻 PHP backend developer
+- 💻 Developer on C++, Kotlin, Java and PHP languages
 <br>
 
 ## Highlightests Projects
